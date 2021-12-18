@@ -4,8 +4,8 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Full-Stack developer!
-- ✍ You can find my projects here [portfolio]()
-- 🔭 I’m currently a student at [Microverse]()
+- ✍ You can find my projects here [portfolio](https://azonkeu.github.io/personal-portfolio/)
+- 🔭 I’m currently a student at [Microverse](https://www.microverse.org/)
 - 🌱 I’m currently learning Ruby on rails 
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
@@ -16,7 +16,7 @@
 
 
 ### Talk with me
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[AzonkeuO]()
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[AzonkeuO](https://www.linkedin.com/in/azonkeu-ornela-software-developer/)
 
 <br />
 
