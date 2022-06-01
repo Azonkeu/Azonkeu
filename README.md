@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## I'm a Full-Stack developer!
-- ✍ You can find my projects here [portfolio](https://app.netlify.com/sites/xenodochial-tereshkova-1ccbde)
+- ✍ You can find my projects here [portfolio](https://xenodochial-tereshkova-1ccbde.netlify.app)
 - 🔭 I’m currently a student at [Microverse](https://www.microverse.org/)
 - 🌱 I’m currently learning Ruby on rails 
 - 👯 I’m looking to collaborate on open source
